@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rei!</h1>
-<h3 align="center">Software developer specialized in Java, C#, JavaScript and SQL development. I'm proud of high quality results and good communication.</h3>
+<h3 align="center">Software developer specialized in Java, C#, JavaScript and SQL development.
+  </br>I'm proud of high quality results and good communication.</h3>
 
 - 🔭 I’m currently studing on [CornerStone International Community College Of Canada](https://ciccc.ca/programs/web-mobile-application-development-diploma/)
 
