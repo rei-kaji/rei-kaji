@@ -43,5 +43,5 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rei-kaji&show_icons=true&locale=en" alt="rei-kaji" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rei-kaji&theme=onedark&show_icons=true&locale=en" alt="rei-kaji" /></p>
 
