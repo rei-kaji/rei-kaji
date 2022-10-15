@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Material UI, TypeScript, Node.js, Java, Python, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://rei-kaji.github.io/#top](https://rei-kaji.github.io/#top)
+- 👨‍💻 All of my projects are available at [https://rei-portfolio.netlify.app/](https://rei-portfolio.netlify.app/)
 
 - 💬 Ask me about **C#, JavaScript, SQL**
 
