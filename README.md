@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Material UI, TypeScript, Node.js, Java, Python, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://rei-portfolio.netlify.app/](https://rei-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://rei-portfolio.netlify.app/" target="_blank" rel="noreferrer">Portfolio Site</a>
 
 - 💬 Ask me about **C#, JavaScript, SQL**
 
